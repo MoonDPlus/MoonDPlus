@@ -1,25 +1,91 @@
-<!-- Header -->
+<!-- Header with Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=500&color=FF007F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+MoonDPlus+%F0%9F%91%8B;Passionate+Developer+%F0%9F%92%BB;Telegram+Bot+Builder+%F0%9F%A4%96;Open+Source+Contributor+%E2%9C%A8" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=500&color=FF007F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+MoonDPlus+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Telegram+Bot+Builder+%F0%9F%A4%96;Open+Source+Contributor+%E2%9C%A8" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack & Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,python,bash,nodejs,express,mongodb,sqlite,git,docker,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="40"/>  
+  <b>JavaScript</b> – My primary language for backend & frontend
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/>  
+  <b>Node.js</b> – Building fast and scalable server-side apps
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express" width="40"/>  
+  <b>Express.js</b> – REST API development made simple
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="40"/>  
+  <b>Python</b> – Scripting & automation, quick prototyping
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40"/>  
+  <b>MongoDB</b> – NoSQL database for flexible data models
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite" width="40"/>  
+  <b>SQLite</b> – Lightweight DB for small and local projects
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" width="40"/>  
+  <b>Docker</b> – Containerizing apps for portability
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" width="40"/>  
+  <b>Linux</b> – My daily OS for dev & server management
 </p>
 
 ---
 
 ## 🚀 Featured Projects  
 
-<p align="center">
-  <b>🤖 Inline Telegram Bot</b> – Fast search & instant content delivery <br>
-  <b>🗄 Auth System with Cookies & Bearer Tokens</b> – Secure & simple <br>
-  <b>⚡ Lightweight APIs</b> – High performance & scalable
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  
+### 🤖 Inline Telegram Bot  
+Fast search & instant content delivery inside Telegram.  
+**Stack:** Node.js + Telebot + MongoDB  
+
+</td>
+<td align="center" width="50%">
+  
+### 🗄 Auth System (Cookie + Bearer)  
+Secure login & user management with token-based auth.  
+**Stack:** Node.js + Express + SQLite  
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+  
+### ⚡ Lightweight APIs  
+Optimized & scalable APIs for fast response times.  
+**Stack:** Node.js + Express + Nginx  
+
+</td>
+<td align="center" width="50%">
+  
+### 🛠 Utility Tools  
+Custom CLI tools and automation scripts.  
+**Stack:** Bash + Python  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,27 +127,14 @@
 
 ---
 
-<p align="center">
-  <b>🎯 My Goal:</b> Keep learning, build creative projects & share knowledge with the community 🌍  
-</p>
-
----
-
-<p align="center">
-  🌐 <a href="#readme-farsi">Switch to Persian Version</a>
-</p>
-
----
-
-<!-- فارسی -->
-<h2 id="readme-farsi" align="center">👋 سلام! من MoonDPlus هستم</h2>
+<h2 align="center" id="readme-farsi">👋 سلام! نسخه فارسی</h2>
 
 <p align="center">
   🚀 عاشق برنامه‌نویسی، ساخت ربات تلگرامی و توسعه ابزارهای خفن هستم  
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,python,bash,nodejs,express,mongodb,sqlite,git,docker,linux,nginx" />
+  از تکنولوژی‌هایی مثل <b>Node.js</b>، <b>Express</b>، <b>MongoDB</b> و <b>Docker</b> برای ساخت پروژه‌های سریع و بهینه استفاده می‌کنم.  
 </p>
 
 <p align="center">
