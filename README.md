@@ -1,7 +1,7 @@
-<!-- 💫 Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+MoonDPlus;Backend+Developer+%7C+Linux+Enthusiast;Lifelong+Learner+%7C+Open-Source+Fan" alt="Typing SVG" />
-</h1>
+<!-- 💫 Animated Header Fixed Width -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+MoonDPlus;Backend+Developer+%7C+Linux+Enthusiast;Lifelong+Learner+%7C+Open-Source+Fan" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/MoonDPlus">
@@ -41,9 +41,9 @@
 <tr>
 <td align="center" colspan="2">
 
-### 🛠 Tools & DevOps  
+### 🛠 Tools & Servers  
 <p>
-  <img src="https://skillicons.dev/icons?i=docker" width="35"/> <b>Docker</b> – Containerizing apps <br>
+  <img src="https://skillicons.dev/icons?i=apache" width="35"/> <b>Apache</b> – Web server & reverse proxy <br>
   <img src="https://skillicons.dev/icons?i=nginx" width="35"/> <b>Nginx</b> – Reverse proxy & load balancing <br>
   <img src="https://skillicons.dev/icons?i=linux" width="35"/> <b>Linux</b> – Daily OS & server management <br>
   <img src="https://skillicons.dev/icons?i=git" width="35"/> <b>Git</b> – Version control & collaboration <br>
@@ -80,16 +80,17 @@
   <img src="https://quickchart.io/chart?c={
     type:'doughnut',
     data:{
-      labels:['Node.js','Express.js','Python','Bash','MongoDB','SQLite','Docker','Linux'],
+      labels:['Node.js','Express.js','Python','Bash','MongoDB','SQLite','Linux','Apache'],
       datasets:[{
-        data:[90,85,70,80,75,60,65,85],
-        backgroundColor:['#339933','#000000','#3572A5','#4EAA25','#4DB33D','#003B57','#0DB7ED','#FCC624']
+        data:[90,85,70,80,75,60,85,65],
+        backgroundColor:['#339933','#000000','#3572A5','#4EAA25','#4DB33D','#003B57','#FCC624','#B70D0D']
       }]
     },
     options:{
       plugins:{
-        legend:{position:'right',labels:{color:'white',font:{size:14}}}
-      }
+        legend:{position:'right',labels:{color:'black',font:{size:14}}}
+      },
+      cutout:'40%'
     }
   }" alt="Skill Chart" width="500"/>
 </p>
