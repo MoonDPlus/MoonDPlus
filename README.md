@@ -1,6 +1,6 @@
 <!-- 💫 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+MoonDPlus;Backend+Developer+%7C+Linux+Enthusiast;Open-Source+Contributor+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=500&color=FF007F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+MoonDPlus+%F0%9F%91%8B;Passionate+Developer+%F0%9F%92%BB;Telegram+Bot+Builder+%F0%9F%A4%96;Open+Source+Contributor+%E2%9C%A8" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 
 ### 🛠 Tools & Servers  
 <p>
-  <img src="https://skillicons.dev/icons?i=apache" width="35"/> <b>Apache</b> – Web server & reverse proxy <br>
+  <img src="https://skillicons.dev/icons?i=pm2" width="35"/> <b>PM2</b> – Process manager for Node.js <br>
   <img src="https://skillicons.dev/icons?i=nginx" width="35"/> <b>Nginx</b> – Reverse proxy & load balancing <br>
   <img src="https://skillicons.dev/icons?i=linux" width="35"/> <b>Linux</b> – Daily OS & server management <br>
   <img src="https://skillicons.dev/icons?i=git" width="35"/> <b>Git</b> – Version control & collaboration <br>
@@ -57,10 +57,22 @@
 
 ## 🚀 Learning & Growth Roadmap  
 
-- 📘 **TypeScript** – Strongly-typed JavaScript for safer code  
-- 🔄 **CI/CD Pipelines** – Automating deployment & testing  
-- ☸️ **Kubernetes Basics** – Container orchestration  
-- 🔐 **Security Best Practices** – Writing secure backend apps  
+### Backend Mastery
+- 📘 **Node.js Advanced Patterns** – Event loop, streams, async/await  
+- ⚡ **Express.js Deep Dive** – Middleware, routing, error handling  
+- 🐍 **Python for Backend** – Automation scripts, APIs, data processing  
+- 🔄 **API Design & RESTful Services** – Best practices for scalable APIs  
+
+### DevOps & Deployment
+- 📦 **PM2** – Process management & monitoring  
+- ☸️ **Kubernetes Basics** – Container orchestration & scaling  
+- 🔄 **CI/CD Pipelines** – GitHub Actions, automated tests & deployment  
+- 🛡 **Security Best Practices** – Authentication, JWT, secure headers  
+
+### Databases & Data Management
+- 🗄 **MongoDB** – Schema design & aggregation  
+- 🗄 **MySQL / SQLite** – Relational modeling, indexing, queries  
+- ⚡ **Caching & Performance** – Redis basics & optimization  
 
 ---
 
@@ -76,7 +88,7 @@
 ## 📈 Skill Proficiency  
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Node.js','Express.js','Python','Bash','MongoDB','SQLite','Linux','Apache'],datasets:[{data:[90,85,70,80,75,60,85,65],backgroundColor:['#339933','#000000','#3572A5','#4EAA25','#4DB33D','#003B57','#FCC624','#B70D0D']}]},options:{plugins:{legend:{position:'right',labels:{color:'black',font:{size:14}}}},cutout:'40%'}}" alt="Skill Chart" width="500"/>
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Node.js','Express.js','Python','Bash','MongoDB','SQLite','Linux','PM2','Nginx'],datasets:[{data:[90,85,70,80,75,60,85,65,70],backgroundColor:['#339933','#000000','#3572A5','#4EAA25','#4DB33D','#003B57','#FCC624','#1E88E5','#009688']}]},options:{plugins:{legend:{position:'right',labels:{color:'black',font:{size:14}}}},cutout:'40%'}}" alt="Skill Chart" width="500"/>
 </p>
 
 ---
