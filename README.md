@@ -1,6 +1,6 @@
 <!-- 💫 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2800&pause=500&color=FF007F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+MoonDPlus+%F0%9F%91%8B;Passionate+Developer+%F0%9F%92%BB;Telegram+Bot+Builder+%F0%9F%A4%96;Open+Source+Contributor+%E2%9C%A8" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2800&pause=500&color=FF007F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+MoonDPlus+%F0%9F%91%8B;Passionate+Developer+%F0%9F%92%BB;Telegram+Bot+Builder+%F0%9F%A4%96;Open+Source+Contributor+%E2%9C%A8" alt="Typing Animation" />
 </p>
 
 <p align="center">
