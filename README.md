@@ -102,6 +102,24 @@ Custom CLI tools and automation scripts.
 
 ---
 
+## 🎯 Goals & Focus  
+
+- Build scalable and maintainable **Telegram bots**  
+- Learn **system design** and improve backend architecture skills  
+- Contribute to **open-source projects** and collaborate with developers  
+- Automate repetitive tasks & share tools with the dev community  
+
+---
+
+## 📖 Currently Learning  
+
+- 🏗 **Advanced Node.js** (streams, clustering, performance tuning)  
+- 🗃 **Database Design** (indexing, optimization, scaling)  
+- 🔐 **Security Best Practices** (JWT, OAuth2, input sanitization)  
+- 🖥 **DevOps & CI/CD** (Docker, GitHub Actions)  
+
+---
+
 ## 📫 Connect with Me  
 
 <p align="center">
@@ -115,32 +133,9 @@ Custom CLI tools and automation scripts.
 
 ---
 
-## ❤️ Support My Work  
+## 🌍 Fun Facts About Me  
 
-<p align="center">
-  If you like what I do, give my repositories a ⭐️  
-  <br><br>
-  <a href="https://buymeacoffee.com/MoonDPlus">
-    <img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-</p>
-
----
-
-<h2 align="center" id="readme-farsi">👋 سلام! نسخه فارسی</h2>
-
-<p align="center">
-  🚀 عاشق برنامه‌نویسی، ساخت ربات تلگرامی و توسعه ابزارهای خفن هستم  
-</p>
-
-<p align="center">
-  از تکنولوژی‌هایی مثل <b>Node.js</b>، <b>Express</b>، <b>MongoDB</b> و <b>Docker</b> برای ساخت پروژه‌های سریع و بهینه استفاده می‌کنم.  
-</p>
-
-<p align="center">
-  ⭐️ لطفاً پروژه‌هام رو ستاره‌دار کن  
-</p>
-
-<p align="center">
-  🔗 <a href="#top">Back to English</a>
-</p>
+- 💡 I love experimenting with **automation & bots**  
+- 🎧 I code best while listening to music  
+- 🌌 Night owl developer – most commits are after midnight 😅  
+- 🖤 Minimalist setup fan (Linux + VS Code + terminal FTW)
