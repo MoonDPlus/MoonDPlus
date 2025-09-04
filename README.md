@@ -1,6 +1,6 @@
 <!-- 💫 Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+MoonDPlus;Backend+Developer+%7C+Linux+Enthusiast;Lifelong+Learner+%7C+Open-Source+Fan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+MoonDPlus;Backend+Developer+%7C+Linux+Enthusiast;Lifelong+Learner+%7C+Open-Source+Fan" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -28,19 +28,6 @@
 </td>
 <td align="center" width="50%">
 
-### 🎨 Frontend (Basic)  
-<p>
-  <img src="https://skillicons.dev/icons?i=html" width="35"/> <b>HTML</b> – Structure of the web <br>
-  <img src="https://skillicons.dev/icons?i=css" width="35"/> <b>CSS</b> – Styling and layouts <br>
-  <img src="https://skillicons.dev/icons?i=javascript" width="35"/> <b>JavaScript</b> – Client-side logic <br>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
 ### 🗄 Databases  
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" width="35"/> <b>MongoDB</b> – NoSQL database <br>
@@ -49,7 +36,10 @@
 </p>
 
 </td>
-<td align="center" width="50%">
+</tr>
+
+<tr>
+<td align="center" colspan="2">
 
 ### 🛠 Tools & DevOps  
 <p>
@@ -66,10 +56,9 @@
 ---
 
 ## 🚀 Learning & Growth Roadmap  
-> I’m always learning and improving! Here’s what I’m currently exploring:  
+> I’m always learning and improving!  
 
 - 📘 **TypeScript** – Strongly-typed JavaScript for safer code  
-- ⚛️ **React** – Building modern interactive frontends  
 - 🔄 **CI/CD Pipelines** – Automating deployment & testing  
 - ☸️ **Kubernetes Basics** – Container orchestration  
 - 🔐 **Security Best Practices** – Writing secure backend apps  
@@ -81,6 +70,28 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoonDPlus&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoonDPlus&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
+
+---
+
+## 📈 Skill Proficiency  
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={
+    type:'doughnut',
+    data:{
+      labels:['Node.js','Express.js','Python','Bash','MongoDB','SQLite','Docker','Linux'],
+      datasets:[{
+        data:[90,85,70,80,75,60,65,85],
+        backgroundColor:['#339933','#000000','#3572A5','#4EAA25','#4DB33D','#003B57','#0DB7ED','#FCC624']
+      }]
+    },
+    options:{
+      plugins:{
+        legend:{position:'right',labels:{color:'white',font:{size:14}}}
+      }
+    }
+  }" alt="Skill Chart" width="500"/>
 </p>
 
 ---
