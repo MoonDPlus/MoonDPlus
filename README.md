@@ -83,13 +83,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoonDPlus&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
----
-
-## 📈 Skill Proficiency  
-
-<p align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Node.js','Express.js','Python','Bash','MongoDB','SQLite','Linux','PM2','Nginx'],datasets:[{data:[90,85,70,80,75,60,85,65,70],backgroundColor:['#339933','#000000','#3572A5','#4EAA25','#4DB33D','#003B57','#FCC624','#1E88E5','#009688']}]},options:{plugins:{legend:{position:'right',labels:{color:'black',font:{size:14}}}},cutout:'40%'}}" alt="Skill Chart" width="500"/>
-</p>
 
 ---
 
