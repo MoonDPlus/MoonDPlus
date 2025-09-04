@@ -1,6 +1,6 @@
-<!-- 💫 Header Image -->
+<!-- 💫 Animated Typing Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MoonDPlus/Assets/main/header.gif" alt="MoonDPlus Header" width="600"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+MoonDPlus;Backend+Developer+%7C+Linux+Enthusiast;Open-Source+Contributor+✨" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@
 ## 📈 Skill Proficiency  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MoonDPlus/Assets/main/skills.png" alt="Skill Chart" width="500"/>
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Node.js','Express.js','Python','Bash','MongoDB','SQLite','Linux','Apache'],datasets:[{data:[90,85,70,80,75,60,85,65],backgroundColor:['#339933','#000000','#3572A5','#4EAA25','#4DB33D','#003B57','#FCC624','#B70D0D']}]},options:{plugins:{legend:{position:'right',labels:{color:'black',font:{size:14}}}},cutout:'40%'}}" alt="Skill Chart" width="500"/>
 </p>
 
 ---
