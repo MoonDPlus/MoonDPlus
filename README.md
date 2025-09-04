@@ -43,7 +43,7 @@
 
 ### 🛠 Tools & Servers  
 <p>
-  <img src="https://skillicons.dev/icons?i=pm2" width="35"/> <b>PM2</b> – Process manager for Node.js <br>
+  <img src="https://skillicons.dev/icons?i=npm" width="35"/> <b>NPM</b> – Package manager for Node.js, manage dependencies & scripts <br>
   <img src="https://skillicons.dev/icons?i=nginx" width="35"/> <b>Nginx</b> – Reverse proxy & load balancing <br>
   <img src="https://skillicons.dev/icons?i=linux" width="35"/> <b>Linux</b> – Daily OS & server management <br>
   <img src="https://skillicons.dev/icons?i=git" width="35"/> <b>Git</b> – Version control & collaboration <br>
